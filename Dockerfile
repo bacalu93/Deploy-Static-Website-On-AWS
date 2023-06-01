@@ -1,2 +1,2 @@
 FROM nginx
-COPY . /usr/share/nginx/html/
+COPY ./elearning-html/. /usr/share/nginx/html/
